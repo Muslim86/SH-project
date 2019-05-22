@@ -1,3 +1,119 @@
+<<<<<<< HEAD
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+li {
+    list-style: none;
+}
+.SH_Welcome {
+    margin: 40px 0 5px;
+    padding: 25px 0 5px;
+    text-align: left;
+    width: 10%;
+    height: 20%;
+}
+.cart {
+    margin: 40px 0 5px;
+    padding: 25px 0 5px;
+    width: 10%;
+    height: 20%;
+
+}
+.container {
+    display: flex; 
+    justify-content: space-between;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+}
+
+.font {
+    background-color: rgb(171, 234, 250);
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+}
+.menu {
+    background-color: rgb(38, 210, 252);
+    width:270px;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+    text-align: center;
+}
+.SH_Welcome {
+    background-color: rgb(255, 245, 31);
+    width: 270px;
+    text-align: center;
+}
+
+.open {
+    background-color: white;
+    width:270px;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+    text-align: right;
+
+}
+.icons {
+    display: flex;
+    height: 17px;
+    width: 200px;
+}
+.Tags {
+    background-color: white;
+    width:270px;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+    text-align: center;
+}
+.Tags.li {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    text-align: left;
+}
+.articles {
+    background-color: white;
+    width:270px;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 24px;
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(55, 55, 55);
+    color: white;
+}
+.st {
+    display: flex;
+    flex-direction: column;
+}
+.Products {
+    display:flex;
+    flex-direction: column;
+}
+.plosk {
+    display: flex;
+}
+.vert {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+}
+.hor {
+    display: flex;
+}
+.slider {
+    display: flex;
+=======
 ul {
     list-style: none;
     margin: 0;
@@ -33,4 +149,5 @@ li {
     display: flex;  
     flex-direction: row;
     justify-content: space-between;
+>>>>>>> 44b033c49726dd8a0e9b368ddd949f07b3969a82
 }
